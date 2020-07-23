@@ -8,6 +8,7 @@
 
 ## 애자일
 * [애자일이 무엇인가요?](https://brunch.co.kr/@insuk/5)
+* [애자일을 어떻게 실천하나요? - 스크럼편](https://brunch.co.kr/@insuk/13)
 
 # 프로그래밍 언어
 
