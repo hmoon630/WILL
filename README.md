@@ -12,6 +12,9 @@
 
 # 프로그래밍 언어
 
+## Python
+* [What is \_\_pycache__?](https://stackoverflow.com/questions/16869024/what-is-pycache)
+
 # 백엔드
 
 # 웹 프레임워크
