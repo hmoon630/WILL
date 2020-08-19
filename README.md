@@ -17,6 +17,8 @@
 
 # 백엔드
 
+* [GraphQL vs REST: What You Need to Know](https://www.rubrik.com/blog/graphql-vs-rest-apis/)
+
 # 웹 프레임워크
 
 ## Django
