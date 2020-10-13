@@ -38,3 +38,6 @@
 * [스트리밍 페이지 기능 구현을 위한 공부노트](https://velog.io/@denmark-choco/%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B3%B5%EB%B6%80%EB%85%B8%ED%8A%B8) <- HLS(Http Live Streaming), ABS(Adaptive Bitrate Streaming)
 
 # DB
+
+## Prisma
+* [Prisma Relations](https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-schema/relations)
