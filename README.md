@@ -11,6 +11,7 @@
 * [애자일을 어떻게 실천하나요? - 스크럼편](https://brunch.co.kr/@insuk/13)
 
 ## 테스트
+* [TDD의 소개](https://velog.io/@velopert/TDD%EC%9D%98-%EC%86%8C%EA%B0%9C)
 * [TDD는 설계 방법론이 아니다](https://gyuwon.github.io/blog/2019/03/03/tdd-is-not-a-design-methodology.html?fbclid=IwAR0mQn64MyvSHErsztAvIi1EKEXi9bZYn-OsCPsSC5U7J0GiUQBXC2tqi9o)
 
 ## 알고리즘 / 패턴
