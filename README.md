@@ -13,6 +13,9 @@
 ## 테스트
 * [TDD는 설계 방법론이 아니다](https://gyuwon.github.io/blog/2019/03/03/tdd-is-not-a-design-methodology.html?fbclid=IwAR0mQn64MyvSHErsztAvIi1EKEXi9bZYn-OsCPsSC5U7J0GiUQBXC2tqi9o)
 
+## 알고리즘 / 패턴
+* [Observer 패턴](http://www.gisdeveloper.co.kr/?p=10441)
+
 # 프로그래밍 언어
 
 ## Python
